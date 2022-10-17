@@ -1,6 +1,6 @@
 # Birthday Card
 
-A simple task assignment from "Scrimba". A website that hosts courses on front end development.
+A simple task assignment from "Scrimba". A website that hosts courses on front end development.<br>
 
 <a href="https://sindre2.github.io/birthday/">View demo</a>
 

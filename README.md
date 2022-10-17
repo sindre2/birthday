@@ -2,6 +2,8 @@
 
 A simple task assignment from "Scrimba". A website that hosts courses on front end development.
 
+<a href="https://sindre2.github.io/birthday/">View demo</a>
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to

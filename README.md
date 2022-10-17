@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Birthday Card
+
+A simple task assignment from "Scrimba". A website that hosts courses on front end development.
 
 ## Supporting Scrimba
 
